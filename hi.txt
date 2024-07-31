@@ -1,298 +1,100 @@
-Rock
-Hammer
-Fire
-Water
-Electricity
-Rubber
-Knife
-Armor
-Sword
-Shield
-Arrow
-Wind
-Tree
-Axe
-Stone
-Chisel
-Ice
-Sun
-Shadow
-Light
-Darkness
-Flashlight
-Battery
-Acid
-Metal
-Magnet
-Paper
-Ink
-Pen
-Eraser
-Chalkboard
-Sponge
-Soap
-Dirt
-Plant
-Herbivore
-Carnivore
-Hunter
-Trap
-Bait
-Fish
-Fisherman
-Net
-Bird
-Cage
-Lock
-Key
-Door
-Window
-Glass
-Diamond
-Laser
-Mirror
-Camera
-Film
-Projector
-Screen
-Virus
-Antivirus
-Computer
-Hacker
-Firewall
-Code
-Programmer
-Bug
-Patch
-Software
-Hardware
-Engineer
-Blueprint
-Building
-Earthquake
-Insurance
-Lawyer
-Contract
-Signature
-Document
-Folder
-File
-Cabinet
-Office
-Desk
-Chair
-Cushion
-Needle
-Thread
-Cloth
-Tailor
-Fashion
-Trend
-Influence
-Power
-Money
-Investment
-Stock
-Market
-Economy
-Policy
-Government
-Law
-Judge
-Jury
-Verdict
-Appeal
-Court
-Case
-Evidence
-Witness
-Testimony
-Lawyer
-Client
-Defense
-Prosecution
-Trial
-Sentence
-Prison
-Guard
-Warden
-Inmate
-Escape
-Pursuit
-Capture
-Interrogation
-Confession
-Secret
-Leak
-Media
-Journalist
-Article
-Headline
-Story
-News
-Broadcast
-Radio
-Signal
-Tower
-Electricity
-Power
-Plant
-Grid
-Network
-Internet
-Data
-Cloud
-Storage
-Backup
-Restore
-Recovery
-Disaster
-Response
-Plan
-Strategy
-Tactics
-Battle
-War
-Peace
-Treaty
-Negotiation
-Diplomacy
-Ambassador
-Embassy
-Passport
-Visa
-Border
-Security
-Checkpoint
-Patrol
-Surveillance
-Intelligence
-Agency
-Agent
-Mission
-Objective
-Target
-Operation
-Command
-Leader
-Team
-Squad
-Unit
-Division
-Regiment
-Army
-Navy
-Fleet
-Ship
-Captain
-Crew
-Mission
-Voyage
-Destination
-Map
-Compass
-Direction
-North
-Pole
-Ice
-Glacier
-Mountain
-Summit
-Climber
-Rope
-Knot
-Anchor
-Boat
-Sail
-Wind
-Breeze
-Storm
-Thunder
-Lightning
-Strike
-Shock
-Reaction
-Reflex
-Response
-Action
-Initiative
-Leadership
-Influence
-Persuasion
-Conviction
-Belief
-Faith
-Hope
-Dream
-Vision
-Goal
-Plan
-Step
-Path
-Journey
-Adventure
-Exploration
-Discovery
-Invention
-Innovation
-Technology
-Progress
-Change
-Revolution
-Movement
-Protest
-Demand
-Response
-Policy
-Reform
-Legislation
-Law
-Order
-Justice
-Equality
-Freedom
-Right
-Liberty
-Democracy
-Vote
-Election
-Campaign
-Debate
-Argument
-Logic
-Reason
-Evidence
-Proof
-Fact
-Truth
-Reality
-Perception
-Perspective
-Opinion
-Belief
-Culture
-Tradition
-Heritage
-Identity
-Community
-Society
-Civilization
-History
-Knowledge
-Wisdom
-Understanding
-Insight
-Awareness
-Consciousness
-Mind
-Thought
-Idea
-Concept
-Theory
-Hypothesis
-Experiment
-Research
-Discovery
-Knowledge
-Wisdom
-Enlightenment
+Scissors
+Nuclear Bomb
+Multitasking Genius
+AI Developed to Counter Genius Behavior
+Analog Immunity System
+Quantum Hacker
+AI-Powered Meta Intelligence
+Meta-Conceptual Thinker
+Omnipotent Entity
+Cosmic Event
+Higher-Dimensional Being
+The Concept of Nothingness
+Self-Subsistent Truth
+The Cosmos Itself
+Quantum Fluctuation
+A Being Who Understands Quantum Fluctuations
+The Concept of Time
+Beyond-Time Entity
+The Force of Causality
+The Principal Source of Causality
+Existence Itself
+The Void
+Antimatter
+A Metaphysical Entity Who Alone Understands Antimatter
+The Interactive Balance
+Transcendent Harmony
+Time Traveler
+Advanced Bio-Engineered Organism
+Nanotechnology Network
+Quantum Entanglement
+The Observer Effect
+The Infinite Corridor
+Dream Walker
+Subconscious Manipulator
+Neuro-Linguistic Programmer
+Sonic Disruptor
+Light Speed Traveler
+Planetary Architect
+Interdimensional Explorer
+Paradox Survivor
+Event Horizon Dancer
+String Theorist
+Quantum Propulsion Engineer
+Artificial Intelligence Overlord
+Meta-Material Creator
+Celestial Harmonizer
+Spiritual Ascendant
+Esoteric Knowledge Keeper
+Telekinetic Warrior
+Trans-Dimensional Weaver
+Multiverse Voyager
+Cosmic Cartographer
+Quantum Lottery Winner
+End-Time Survivor
+Primordial Force
+Interstellar Diplomat
+Omnipresent Being
+Cybernetic Upgrader
+Parallel Universe Explorer
+Causal Loop Breaker
+Meta-Physical Engineer
+Auto-Evolving Organism
+Dimensional Bridge Builder
+Shadow Weaver
+Dream Incubator
+AI-Powered Augure
+Celestial Evolution Guide
+Cosmic Prankster
+Sub-Atomic Artisan
+Event Fabricator
+Vector Manipulator
+Temporal Cartographer
+Fractal Architect
+Neural Network Optimizer
+Quantum Consciousness
+Holofractal Entity
+Interdimensional Portal Builder
+Transcendent Mathematician
+Reality Sculptor
+Exotic Matter Engineer
+Gravitational Wave Surfer
+Antimatter Reactor Operator
+Nanoscale Assembler
+Cybernetic Enhancer
+Time Dilation Expert
+Quantum Entanglement Hacker
+Black Hole Navigator
+Dark Matter Cartographer
+Cosmic String Theorist
+Braneworld Explorer
+Higher-Dimensional Encryptor
+Quantum Teleportation Engineer
+Artificial General Intelligence
+Meta-Physical Cartographer
+Causal Dynamical Triangulation Expert
+Quantum Foam Surfer
+Multiverse Archaeologist
+Transcendent Linguist
+Interuniversal Diplomat
+Omnitemporal Being
